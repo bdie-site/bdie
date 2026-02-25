@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bounded Decision Interpretation Engine (BDIE)</title>
+  <meta name="robots" content="noindex,nofollow">
+</head>
+<body>
+
+  <h1>Bounded Decision Interpretation Engine (BDIE)</h1>
+  <p><strong>Founded and owned by Mona Jerad</strong></p>
+
+  <p>
+    Independent, post-hoc interpretation of how decisions were formed within bounded systems.
+  </p>
+
+  <hr>
+
+  <h2>What BDIE Is</h2>
+  <p>
+    BDIE provides descriptive interpretations of how decisions were formed after the fact.
+  </p>
+  <ul>
+    <li>Interpretive, not directive</li>
+    <li>Descriptive, not evaluative</li>
+    <li>Post-hoc, not real-time</li>
+    <li>Non-executing</li>
+    <li>Human-responsibility preserving</li>
+  </ul>
+
+  <p>BDIE exists to make visible:</p>
+  <ul>
+    <li>Inputs considered and excluded</li>
+    <li>Constraints present at formation time</li>
+    <li>Defaults and thresholds applied</li>
+    <li>Areas of uncertainty</li>
+    <li>Process sequencing effects</li>
+  </ul>
+
+  <hr>
+
+  <h2>What BDIE Is Not</h2>
+  <ul>
+    <li>Advisory</li>
+    <li>Decision-making</li>
+    <li>Validation or endorsement</li>
+    <li>Optimization or scoring</li>
+    <li>Outcome comparison</li>
+    <li>Execution or automation</li>
+    <li>Real-time participation</li>
+    <li>System integration</li>
+  </ul>
+
+  <p>
+    BDIE does not recommend actions, judge correctness, or influence outcomes.
+  </p>
+
+  <hr>
+
+  <h2>Access & Engagement</h2>
+  <p>
+    Engagements are invitation-only.
+  </p>
+  <p>
+    BDIE conducts paid, written evaluations of historical decisions or simulated decision processes.
+  </p>
+  <p>
+    There is no public onboarding, tooling, or ongoing access.
+  </p>
+
+  <hr>
+
+  <h2>Boundaries & Independence</h2>
+  <p>
+    All evaluations are non-advisory, non-authoritative, and non-executing.
+  </p>
+  <p>
+    Responsibility for decisions and outcomes remains entirely external.
+  </p>
+  <p>
+    Methods, internal logic, and systems are not disclosed.
+  </p>
+  <p>
+    Use is informational only.
+  </p>
+
+  <hr>
+
+  <h2>Contact</h2>
+  <p>
+    If you believe an evaluation may be appropriate, request consideration via email:
+  </p>
+  <p>
+    <strong>contact.bdie@proton.me</strong>
+  </p>
+  <p>
+    Silence should be interpreted as non-acceptance.
+  </p>
+
+  <hr>
+
+  <p>© 2026 Mona Jerad. All rights reserved.</p>
+
+</body>
+</html>
